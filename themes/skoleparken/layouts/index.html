@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="hero">
+    <div class="container hero-content">
+        <h1>Velkommen til Skoleparken</h1>
+        <p class="hero-subtitle">Din grundejerforening i hjertet af Brøndby Strand, hvor natur møder by.</p>
+        <div class="hero-actions">
+            <a href="/vedtaegter" class="btn btn-primary">Læs Vedtægter</a>
+            <a href="/kontakt" class="btn btn-secondary">Kontakt Bestyrelsen</a>
+        </div>
+    </div>
+</div>
+
+<section class="announcements container">
+    <h2>Seneste Nyt & Opslag</h2>
+    <div class="content-body">
+        {{ .Content }}
+    </div>
+</section>
+{{ end }}

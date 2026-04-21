@@ -1,0 +1,29 @@
+baseURL = "http://localhost:1313/"
+languageCode = "da-dk"
+title = "Skoleparken - Brøndby Strand"
+theme = "skoleparken"
+
+[params]
+  description = "Grundejerforeningen Skoleparken i Brøndby Strand"
+
+[menu]
+  [[menu.main]]
+    identifier = "forside"
+    name = "Forside"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "vedtaegter"
+    name = "Vedtægter"
+    url = "/vedtaegter/"
+    weight = 20
+  [[menu.main]]
+    identifier = "referater"
+    name = "Referater"
+    url = "/referater/"
+    weight = 30
+  [[menu.main]]
+    identifier = "kontakt"
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 40

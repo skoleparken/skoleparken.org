@@ -1,0 +1,19 @@
+<header class="site-header">
+    <div class="container header-container">
+        <a href="{{ "/" | relURL }}" class="logo-link">
+            <img src="{{ "/images/logo.png" | relURL }}" alt="Skoleparken Logo" class="site-logo">
+        </a>
+        <nav class="main-nav">
+            <ul>
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <li>
+                    <a href="{{ .URL }}" class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                        {{ .Name }}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </nav>
+    </div>
+</header>

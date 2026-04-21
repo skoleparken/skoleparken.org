@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forside on Skoleparken - Brøndby Strand</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Forside on Skoleparken - Brøndby Strand</description>
+    <generator>Hugo</generator>
+    <language>da-dk</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kontakt/</guid>
+      <description>&lt;p&gt;Har du spørgsmål, forslag eller brug for hjælp? Du er altid velkommen til at kontakte bestyrelsen.&lt;/p&gt;&#xA;&lt;h3 id=&#34;bestyrelsen&#34;&gt;Bestyrelsen&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Formand:&lt;/strong&gt;&#xA;Jens Jensen&#xA;Mail: &lt;a href=&#34;mailto:formand@skoleparken-brondby.dk&#34;&gt;formand@skoleparken-brondby.dk&lt;/a&gt;&#xA;Tlf: 12 34 56 78&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Næstformand:&lt;/strong&gt;&#xA;Anna Andersen&#xA;Mail: &lt;a href=&#34;mailto:naestformand@skoleparken-brondby.dk&#34;&gt;naestformand@skoleparken-brondby.dk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kasserer:&lt;/strong&gt;&#xA;Peter Petersen&#xA;Mail: &lt;a href=&#34;mailto:kasserer@skoleparken-brondby.dk&#34;&gt;kasserer@skoleparken-brondby.dk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;postadresse&#34;&gt;Postadresse&lt;/h3&gt;&#xA;&lt;p&gt;Grundejerforeningen Skoleparken&lt;br&gt;&#xA;c/o Jens Jensen&lt;br&gt;&#xA;Skoleparken 1&lt;br&gt;&#xA;2660 Brøndby Strand&lt;/p&gt;&#xA;&lt;h3 id=&#34;kontaktformular&#34;&gt;Kontaktformular&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;(Her kan der senere integreres en formular via f.eks. Netlify Forms eller lignende).&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vedtægter</title>
+      <link>http://localhost:1313/vedtaegter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vedtaegter/</guid>
+      <description>&lt;h2 id=&#34;grundejerforeningen-skoleparken&#34;&gt;Grundejerforeningen &amp;ldquo;Skoleparken&amp;rdquo;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;-1&#34;&gt;§ 1&lt;/h3&gt;&#xA;&lt;p&gt;Medlemmer af grundejerforeningen &amp;ldquo;Skoleparken&amp;rdquo; er enhver ejer af parceller udstykkede fra en del af matr.nr. 14a Brøndbyvester (Skolevang 8-16, Skolevang 9-21, Markvej 4-42 og Markvej 3-43).&lt;/p&gt;&#xA;&lt;h3 id=&#34;-2&#34;&gt;§ 2&lt;/h3&gt;&#xA;&lt;p&gt;Grundejerforeningen &amp;ldquo;Skoleparken&amp;rdquo; har til opgave at varetage sine medlemmers fælles grundejerinteresser, og at administrere de fællesanliggender, der vedrører deres rettigheder og forpligtelser, som ejere af parceller inden for foreningens område.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-3&#34;&gt;§ 3&lt;/h3&gt;&#xA;&lt;p&gt;Medlemmerne er ikke solidarisk ansvarlige for grundejerforeningens gæld, men hæfter kun med de lovligt vedtagne indbetalinger for foreningens forpligtigelser.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

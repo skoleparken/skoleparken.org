@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="page-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        {{ if .Description }}
+        <p class="page-description">{{ .Description }}</p>
+        {{ end }}
+    </div>
+</div>
+
+<div class="container page-content">
+    <div class="content-body">
+        {{ .Content }}
+    </div>
+    
+    {{ if .Pages }}
+    <div class="page-list">
+        {{ range .Pages }}
+        <article class="list-item">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ if .Date }}<span class="date">{{ .Date.Format "02. Jan 2006" }}</span>{{ end }}
+            <p>{{ .Summary }}</p>
+            <a href="{{ .RelPermalink }}" class="read-more">Læs mere &rarr;</a>
+        </article>
+        {{ end }}
+    </div>
+    {{ end }}
+</div>
+{{ end }}
