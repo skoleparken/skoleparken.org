@@ -9,16 +9,16 @@ Har du spørgsmål, forslag eller brug for hjælp? Du er altid velkommen til at 
 
 **Formand:**
 Jens Jensen
-Mail: formand@skoleparken-brondby.dk
+Mail: formand@skoleparken.org
 Tlf: 12 34 56 78
 
 **Næstformand:**
 Anna Andersen
-Mail: naestformand@skoleparken-brondby.dk
+Mail: naestformand@skoleparken.org
 
 **Kasserer:**
 Peter Petersen
-Mail: kasserer@skoleparken-brondby.dk
+Mail: kasserer@skoleparken.org
 
 ### Postadresse
 
