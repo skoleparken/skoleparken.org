@@ -1,11 +1,22 @@
 <footer class="site-footer">
-    <div class="container footer-container">
-        <div class="footer-info">
-            <h3>Skoleparken</h3>
-            <p>Grundejerforeningen i Brøndby Strand</p>
-        </div>
-        <div class="footer-links">
-            <a href="/kontakt">Kontakt os</a>
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <img src="{{ "/images/logo_notext.png" | relURL }}" alt="Skoleparken Logo Ikon" class="footer-logo">
+                <div class="footer-brand-text">
+                    <h3>Skoleparken</h3>
+                    <p>Grundejerforeningen i Brøndby Strand</p>
+                </div>
+            </div>
+            <div class="footer-links-wrapper">
+                <h4>Genveje</h4>
+                <div class="footer-links">
+                    <a href="{{ "/" | relURL }}">Forside</a>
+                    <a href="{{ "/vedtaegter" | relURL }}">Vedtægter</a>
+                    <a href="{{ "/referater" | relURL }}">Referater</a>
+                    <a href="{{ "/kontakt" | relURL }}">Kontakt os</a>
+                </div>
+            </div>
         </div>
         <div class="footer-copyright">
             &copy; {{ now.Format "2006" }} Grundejerforeningen Skoleparken.
